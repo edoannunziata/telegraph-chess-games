@@ -1,0 +1,17 @@
+[Event "Washington-Baltimore Telegraph Chess (Vail published game 1; modernized)"]
+[Site "Washington, DC / Baltimore, MD"]
+[Date "1844.11.26"]
+[Round "?"]
+[White "Washington Chess Club"]
+[Black "Baltimore Chess Club"]
+[Result "0-1"]
+[Source "Alfred Vail, The American Electro Magnetic Telegraph (1845), pp. 63-65"]
+[SourceCorrection "A. Vail, Le telegraphe electro-magnetique americain (1847), pp. 71-72"]
+
+{Editorial normalization: the original 1845 game begins with Washington playing Black and Baltimore playing White. To make White move first from the standard initial position, all piece colors have been exchanged and all ranks reflected (rank r becomes 9-r; files unchanged). White here represents Washington and Black represents Baltimore. This is not the historical color assignment. Baltimore won when Washington resigned after Black's 28... Qg1+.}
+1. e4 e5 2. Bc4 c6 3. Nf3 d5 4. exd5 cxd5 5. Bb3 Nc6 6. d3 h6 7. h3 Nf6 8. O-O Bd6 9. c3 Bc7
+10. Be3 Qd6 11. Ne1 g5 12. Na3 a6 13. c4 d4 14. Bd2 g4 15. f4
+{1845 English edition: W 11 to 29 (illegal). 1847 French edition: W 11 to 27 (legal). In these modernized coordinates, 15. f4.}
+gxh3 16. g3 Bg4 17. Qc1 Nh5 18. c5 Qg6 19. Kh2 Nxg3 20. Nec2 Nxf1+ 21. Qxf1 O-O-O 22. Nc4 Bf5
+23. Ne1 Rhg8 24. Nd6+ Bxd6 25. cxd6 Qg3+ 26. Kh1 Rd7 27. fxe5 h2 28. Bd5 Qg1+ 0-1
+

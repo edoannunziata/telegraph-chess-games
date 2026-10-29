@@ -1,0 +1,21 @@
+[Event "Washington-Baltimore Telegraph Chess (Vail published game 2)"]
+[Site "Washington, DC / Baltimore, MD"]
+[Date "1844.??.??"]
+[Round "?"]
+[White "Baltimore Chess Club"]
+[Black "Washington Chess Club"]
+[Result "0-1"]
+[Source "Alfred Vail, The American Electro Magnetic Telegraph (1845), pp. 63-65"]
+[SourceCorrection "A. Vail, Le telegraphe electro-magnetique americain (1847), pp. 71-72"]
+
+{Baltimore resigned after 61... Nd3.}
+1. d4 f5 2. Bf4 d6 3. e3 Nf6 4. c4 e6 5. Bd3 c6 6. a3 h6 7. h4 g6 8. Nf3 Nbd7 9. Nc3 Qc7 10. b4
+e5 11. dxe5 dxe5 12. Bg3 Nh5 13. Bh2 Bg7 14. Nd2 Qd8 15. Bxf5 O-O 16. Be6+ Kh8 17. Qg4 Ndf6 18.
+Qh3 Bxe6 19. Qxe6 Re8 20. Qf7 Qd3 21. Rc1 Rad8 22. Nde4 Nxe4 23. Nxe4 Qxe4 24. O-O Rb8 25. Rcd1
+Qf5 26. Qc7 Rec8 27. Qe7 Qf8 28. Qe6 Qe8 29. Qg4 Nf6 30. Qe2 Rd8 31. c5 Rxd1 32. Rxd1 h5 33. e4
+Ng4 34. Bg3 Rd8 35. Re1 Qd7 36. Qc4 Nh6 37. Kh1 Qd2 38. f3 Kh7 39. Qe6 Qd7 40. Qb3 Qe7 41. Bf2
+Rd2 42. Kg1 Qd7 43. a4 Rd3 44. Qc2 Nf7 45. Rb1 a6 46. Rc1 Bh6 47. Re1 Nd8 48. Bg3 Rd2 49. Qc3
+Rd3 50. Qa1 Qd4+ 51. Qxd4 exd4 52. Bf2 Ne6 53. g3 Rb3 54. f4 Rxb4 55. f5 gxf5 56. exf5 Nxc5 57.
+g4 hxg4 58. Bg3 Be3+ 59. Kh1 Ne4 60. Be5
+{1845 English edition: B 42 to 48 (illegal). 1847 French edition: B 42 to 28 (legal).}
+Nf2+ 61. Kg2 Nd3 0-1
